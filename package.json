@@ -1,0 +1,37 @@
+{
+  "author": "Bryn Dyment <bryndyment@gmail.com>",
+  "description": "React hook for use with MUI.",
+  "license": "MIT",
+  "name": "@hoologic/use-opening",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/hoologic/use-opening/issues"
+  },
+  "devDependencies": {
+    "@types/react": "^16 || ^17 || ^18",
+    "typescript": "5.5.4"
+  },
+  "files": [
+    "index.d.ts",
+    "index.d.ts.map",
+    "index.js",
+    "index.js.map"
+  ],
+  "homepage": "https://github.com/hoologic/use-opening#readme",
+  "keywords": [
+    "hook",
+    "MUI",
+    "React",
+    "useOpening"
+  ],
+  "peerDependencies": {
+    "react": "^16 || ^17 || ^18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoologic/use-opening.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
