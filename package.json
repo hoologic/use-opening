@@ -1,9 +1,9 @@
 {
   "author": "Bryn Dyment <bryndyment@gmail.com>",
-  "description": "React hook for use with MUI.",
+  "description": "React hook to manage MUI component open and close states.",
   "license": "MIT",
   "name": "@hoologic/use-opening",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "url": "https://github.com/hoologic/use-opening/issues"
   },
