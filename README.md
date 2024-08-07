@@ -1,3 +1,3 @@
 ## useOpening
 
-React hook for use with MUI.
+React hook to manage MUI component open and close states.
